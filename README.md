@@ -101,7 +101,7 @@ Gestión de citas, doctores y pacientes con historial de correos, EmailService y
 ¿Tienes un proyecto en mente? Hablemos.
 
 📧 diego.zuluagaye@gmail.com
-📱 320 566 3330
+💼 [LinkedIn](https://linkedin.com/in/diego-zuluaga-yepes-239137272)
 📍 Medellín, Colombia
 
 <div align="center">
