@@ -81,15 +81,18 @@ Gestión de citas, doctores y pacientes con historial de correos, EmailService y
 
 ---
 
-## 📊 Estadísticas
+## 📊 En números
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejo11102001&show_icons=true&theme=dark&hide_border=true&bg_color=0f2044&title_color=c9973a&icon_color=c9973a&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejo11102001&layout=compact&theme=dark&hide_border=true&bg_color=0f2044&title_color=c9973a&text_color=ffffff)
-
-</div>
+| | |
+|---|---|
+| 🏢 **Empresa actual** | Athenea — Ingeniero de Prompt |
+| 💼 **Experiencia** | Desarrollo Fullstack + QA + IA |
+| 🎓 **Formación** | Ing. Sistemas — U. Católica Luis Amigó |
+| 🌍 **Ubicación** | Medellín, Colombia |
+| 🔭 **Proyecto actual** | Gestor Legal Fin Deudas Medellín |
+| 🌱 **Aprendiendo** | Azure Cloud · .NET 10 · Arquitectura limpia |
+| 💬 **Pregúntame sobre** | C# .NET · React · QA Automation · Agentes IA |
+| 📫 **Contacto** | diego.zuluagaye@gmail.com |
 
 ---
 
