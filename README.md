@@ -92,7 +92,7 @@ Gestión de citas, doctores y pacientes con historial de correos, EmailService y
 | 🔭 **Proyecto actual** | Gestor Legal Fin Deudas Medellín |
 | 🌱 **Aprendiendo** | Azure Cloud · .NET 10 · Arquitectura limpia |
 | 💬 **Pregúntame sobre** | C# .NET · React · QA Automation · Agentes IA |
-| 📫 **Contacto** | diego.zuluagaye@gmail.com |
+| 📫 **Contacto** | diego.zuluagaye@amigo.edu.co |
 
 ---
 
@@ -100,7 +100,7 @@ Gestión de citas, doctores y pacientes con historial de correos, EmailService y
 
 ¿Tienes un proyecto en mente? Hablemos.
 
-📧 diego.zuluagaye@gmail.com
+📧 diego.zuluagaye@amigo.edu.co
 💼 [LinkedIn](https://linkedin.com/in/diego-zuluaga-yepes-239137272)
 📍 Medellín, Colombia
 
